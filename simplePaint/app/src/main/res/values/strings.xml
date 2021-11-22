@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">simplePaint</string>
+    <string name="limpar">limpar</string>
 </resources>
